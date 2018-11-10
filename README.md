@@ -2,9 +2,9 @@
 Javascript UI Components
 
 | *Circle Gauge* | *Half Circle Gauge* |  *Radar Chart* | *Bar Gauge* |
-| :------------- | :------------- | :------------- | | :--------------|
-| <img src="./CircleGauge/docs/eximg.png" width="130"> | <img src="./HalfCircleGauge/docs/eximg.png" width="130"> | <img src="./RadarChart/docs/eximg.png" width="130"> | <img src="./BarGauge/img/bar.png" width="130"> | |
-|[code](./CircleGauge) <br> [examples](https://yeonjuan.github.io/ygui/circlegauge.html) |[code](./HalfCircleGauge) <br> [examples](https://yeonjuan.github.io/ygui/halfCircleGauge.html) | [code](./RadarChart) <br> [examples]() | |
+| :------------- | :------------- | :------------- | | :-------------- |
+| <img src="./CircleGauge/docs/eximg.png" width="130"> | <img src="./HalfCircleGauge/docs/eximg.png" width="130"> | <img src="./RadarChart/docs/eximg.png" width="130"> | <img src="./BarGauge/img/bar.png" width="130"> |  |
+|[code](./CircleGauge) <br> [examples](https://yeonjuan.github.io/ygui/circlegauge.html) |[code](./HalfCircleGauge) <br> [examples](https://yeonjuan.github.io/ygui/halfCircleGauge.html) | [code](./RadarChart) <br> [examples]() |  |
 
 ## to-do.  
 - [x] Circle Gauge
